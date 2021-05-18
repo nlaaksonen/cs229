@@ -19,30 +19,30 @@ Alternatively, static HTML versions are available in the respective folders.
 
 - **Question 2**: Locally weighted logistic regression,
   [nbviewer](https://nbviewer.jupyter.org/github/nlaaksonen/cs229/blob/main/ps1/1q2.ipynb)
-  &middot; [HTML](ps1/1q2.html).
+  &middot; [HTML](https://nlaaksonen.github.io/cs229/ps1/1q2.html).
 
 ## Problem Sheet 2
 
 - **Question 4**: Spam classification with Naive Bayes and SVM with sequential
   minimal optimisation,
   [nbviewer](https://nbviewer.jupyter.org/github/nlaaksonen/cs229/blob/main/ps2/2q4.ipynb)
-  &middot; [HTML](ps2/2q4.html).
+  &middot; [HTML](https://nlaaksonen.github.io/cs229/ps2/2q4.html).
 
 ## Problem Sheet 3
 
 - **Question 3**: &#8467;&#8321;-regularisation with coordinate descent,
   [nbviewer](https://nbviewer.jupyter.org/github/nlaaksonen/cs229/blob/main/ps3/3q3.ipynb)
-  &middot; [HTML](ps3/3q3.html).
+  &middot; [HTML](https://nlaaksonen.github.io/cs229/ps3/3q3.html).
 - **Question 4**: *k*-means clustering,
     [nbviewer](https://nbviewer.jupyter.org/github/nlaaksonen/cs229/blob/main/ps3/3q4.ipynb)
-    &middot; [HTML](ps3/3q4.html).
+    &middot; [HTML](https://nlaaksonen.github.io/cs229/ps3/3q4.html).
 
 ## Problem Sheet 4
 
 - **Question 3**: Principal component analysis and Independent component
   analysis for plant pictures,
   [nbviewer](https://nbviewer.jupyter.org/github/nlaaksonen/cs229/blob/main/ps4/4q3.ipynb)
-  &middot; [HTML](ps4/4q3.html).
+  &middot; [HTML](https://nlaaksonen.github.io/cs229/ps4/4q3.html).
 - **Question 5**: Q-learning for the mountain car problem,
   [nbviewer](https://nbviewer.jupyter.org/github/nlaaksonen/cs229/blob/main/ps4/4q5.ipynb)
-  &middot; [HTML](ps4/4q5.html).
+  &middot; [HTML](https://nlaaksonen.github.io/cs229/ps4/4q5.html).
